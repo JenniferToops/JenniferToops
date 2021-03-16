@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/jennifertoops" target="blank"><img src="https://img.shields.io/twitter/follow/jennifertoops?logo=twitter&style=for-the-badge" alt="jennifertoops" /></a> </p>
 
-- 🔭 I'm currently working on [my portfolio site](https://jennifertoops.com) & [my blog] (https://oldcoderchick.com)
+- 🔭 I'm currently working on [my portfolio site](https://jennifertoops.com)
 
 - 🌱 I’m currently learning **Node.js, React, and MongoDB**
 
