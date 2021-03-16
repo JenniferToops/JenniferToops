@@ -20,7 +20,7 @@
 
 - 📄 Read about my work experience [here](https://jennifertoops.com/resume)
 
-- ⚡ Fun fact **I love dogs--no, I. Freaking. LOVE. Dogs!**
+- ⚡ Fun fact: I love dogs--no, **I. Freaking. LOVE. Dogs!**
 
 <img src="https://media.giphy.com/media/3ohhwiavwGNrRceZO0/giphy.gif" alt="cute cartoon flower with rotating dog face in the center" align="center">
 
