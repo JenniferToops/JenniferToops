@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer Toops!</h1>
 <h3 align="center">A full-stack web developer with a background in real estate and online marketing.</h3>
 
-<p align="left"> <a href="https://twitter.com/jennifertoops" target="blank"><img src="https://img.shields.io/twitter/follow/jennifertoops?logo=twitter&style=for-the-badge" alt="jennifertoops" /></a> <a href="https://www.twitch.tv/oldcoderchick" target="blank"><img src="https://img.shields.io/twitch/status/oldcoderchick?style=social" alt="oldcoderchick" /></a></p>
+<p align="left"> <a href="https://twitter.com/jennifertoops" target="blank"><img src="https://img.shields.io/twitter/follow/jennifertoops?logo=twitter&style=for-the-badge" alt="jennifertoops" /></a> <a href="https://www.twitch.tv/oldcoderchick" target="blank"><img src="https://img.shields.io/twitch/status/oldcoderchick?style=social" alt="oldcoderchick" /></a><a href="https://linkedin.com/in/jennifertoops" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color="blue" alt="jennifertoops" height="30" width="40" /></a></p>
 
 - 🔭 I'm currently working on [my portfolio site](https://jennifertoops.com)
 
