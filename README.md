@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [oldcoderchick.com](https://oldcoderchick.com)
 
-- 💬 Ask me about **my favorite JavaScript methods!** They're not fancy, but the get the job done.
+- 💬 Ask me about **my favorite JavaScript methods!** They're not fancy, but they get the job done.
 
 - 📫 How to reach me **jennifertoops@gmail.com**
 
