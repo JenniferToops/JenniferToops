@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Sn66FXm.png" alt="cartoon dogs running" align="center" width="100%">
+<img src="https://i.imgur.com/StoDLHT.png" alt="cartoon dogs running" align="center" width="100%">
 <h1 align="center">Hi 👋, I'm Jennifer Toops!</h1>
 <h3 align="center">A full-stack web developer with a background in real estate and online marketing.</h3>
 
