@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Sn66FXm.png" alt="cartoon dogs running">
+<img src="https://i.imgur.com/Sn66FXm.png" alt="cartoon dogs running" align="center">
 <h1 align="center">Hi 👋, I'm Jennifer Toops!</h1>
 <h3 align="center">A full-stack web developer with a background in real estate and online marketing.</h3>
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I love dogs--no, I. Freaking. LOVE. Dogs!**
 
-<img src="https://media.giphy.com/media/3ohhwiavwGNrRceZO0/giphy.gif" alt="cute cartoon flower with rotating dog face in the center">
+<img src="https://media.giphy.com/media/3ohhwiavwGNrRceZO0/giphy.gif" alt="cute cartoon flower with rotating dog face in the center" align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
