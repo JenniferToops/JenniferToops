@@ -1,9 +1,10 @@
+<img src="https://i.imgur.com/Sn66FXm.png" alt="cartoon dogs running">
 <h1 align="center">Hi 👋, I'm Jennifer Toops!</h1>
 <h3 align="center">A full-stack web developer with a background in real estate and online marketing.</h3>
 
 <p align="left"> <a href="https://twitter.com/jennifertoops" target="blank"><img src="https://img.shields.io/twitter/follow/jennifertoops?logo=twitter&style=for-the-badge" alt="jennifertoops" /></a> </p>
 
-- 🔭 I'm currently working on [my portfolio and blog sites](https://jennifertoops.com) & (https://oldcoderchick.com)
+- 🔭 I'm currently working on [my portfolio site](https://jennifertoops.com) & [my blog] (https://oldcoderchick.com)
 
 - 🌱 I’m currently learning **Node.js, React, and MongoDB**
 
@@ -13,11 +14,11 @@
 
 - 📝 I regularly write articles on [oldcoderchick.com](https://oldcoderchick.com)
 
-- 💬 Ask me about **my favorite JavaScript methods! They're not fancy, but the get the job done.**
+- 💬 Ask me about **my favorite JavaScript methods!** They're not fancy, but the get the job done.
 
 - 📫 How to reach me **jennifertoops@gmail.com**
 
-- 📄 Know about my experiences [jennifertoops.com/resume](https://jennifertoops.com/resume)
+- 📄 Read about my work experience [here](https://jennifertoops.com/resume)
 
 - ⚡ Fun fact **I love dogs--no, I. Freaking. LOVE. Dogs!**
 
@@ -25,10 +26,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jennifertoops" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jennifertoops" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jennifertoops" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jennifertoops" height="30" width="40" /></a>
-<a href="https://fb.com/jenntoops" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jenntoops" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oldcoderchick" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="oldcoderchick" height="30" width="40" /></a>
+<a href="https://twitter.com/jennifertoops" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jennifertoops" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jennifertoops" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jennifertoops" height="30" width="40" /></a>
+<a href="https://fb.com/jenntoops" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jenntoops" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/oldcoderchick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="oldcoderchick" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
