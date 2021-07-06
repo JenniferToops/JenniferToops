@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **a tarot game site--awesome games using tarot cards!**
 
-- 👨‍💻 All of my projects are available at [jennifertoops.com](https://jennifertoops.com)
+- 👨‍💻 All of my projects are available at [jennifertoops.com](https://jennifertoops.netlify.app)
 
 - 📝 I regularly write articles on [oldcoderchick.com](https://oldcoderchick.com)
 
