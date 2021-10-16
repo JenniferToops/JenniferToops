@@ -6,9 +6,9 @@
 
 - 🔭 I'm currently working on [my portfolio site](https://jennifertoops.netlify.app)
 
-- 🌱 I’m currently learning **Node.js, React, and MongoDB**
+- 🌱 I’m currently learning **Firebase/Firestore**
 
-- 👯 I’m looking to collaborate on **a tarot game site--awesome games using tarot cards!**
+- 👯 I’m looking to collaborate on **a pet playdate app!**
 
 - 👨‍💻 All of my projects are available at [jennifertoops.com](https://jennifertoops.netlify.app)
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jennifertoops@gmail.com**
 
-- 📄 Read about my work experience [here](https://jennifertoops.com/resume)
+- 📄 Read about my work experience [here](https://my.indeed.com/p/jennifert-dlnaxak)
 
 - ⚡ Fun fact: I love dogs--no, **I. Freaking. LOVE. Dogs!**
 
