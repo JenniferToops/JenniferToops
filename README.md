@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/StoDLHT.png" alt="cartoon dogs running" align="center" width="100%">
 <h1 align="center">Hi 👋, I'm Jennifer Toops!</h1>
-<h3 align="center">A full-stack web developer with a background in real estate and online marketing.</h3>
+<h3 align="center">A consultant with an eclectic background and lover of frontend development.</h3>
 
 <p align="center"> <a href="https://twitter.com/jennifertoops" target="blank"><img src="https://img.shields.io/twitter/follow/jennifertoops?logo=twitter&style=for-the-badge" alt="jennifertoops" /></a> <a href="https://www.twitch.tv/oldcoderchick" target="blank"><img src="https://img.shields.io/twitch/status/oldcoderchick?style=social" alt="oldcoderchick" /></a><a href="https://linkedin.com/in/jennifertoops" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" background-color="blue" alt="jennifertoops" height="30" width="40" /></a><a href="https://fb.com/jenntoops" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jenntoops" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCr7qytAAu_L40LIXCBVk30g" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="oldcoderchick" height="30" width="40"/></a></p>
 
