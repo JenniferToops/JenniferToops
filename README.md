@@ -4,17 +4,7 @@
 
 <p align="center"> <a href="https://twitter.com/jennifertoops" target="blank"><img src="https://img.shields.io/twitter/follow/jennifertoops?logo=twitter&style=for-the-badge" alt="jennifertoops" /></a> <a href="https://www.twitch.tv/oldcoderchick" target="blank"><img src="https://img.shields.io/twitch/status/oldcoderchick?style=social" alt="oldcoderchick" /></a><a href="https://linkedin.com/in/jennifertoops" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" background-color="blue" alt="jennifertoops" height="30" width="40" /></a><a href="https://fb.com/jenntoops" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jenntoops" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UCr7qytAAu_L40LIXCBVk30g" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="oldcoderchick" height="30" width="40"/></a></p>
 
-- 🔭 I'm currently working on [my portfolio site](https://jennifertoops.netlify.app)
-
 - 🌱 I’m currently learning **Firebase/Firestore**
-
-- 👯 I’m looking to collaborate on **a pet playdate app!**
-
-- 👨‍💻 All of my projects are available at [jennifertoops.com](https://jennifertoops.netlify.app)
-
-- 📝 I regularly write articles on [oldcoderchick.com](https://oldcoderchick.com)
-
-- 💬 Ask me about **my favorite JavaScript methods!** They're not fancy, but they get the job done.
 
 - 📫 How to reach me **jennifertoops@gmail.com**
 
